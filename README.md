@@ -1,2 +1,2 @@
-# DebitoorDeb
-Some script to help Deb work with Debitoor
+# Debitoor Deb
+Some scripts to help Deb work with [Debitoor](http://www.debitoor.com)
